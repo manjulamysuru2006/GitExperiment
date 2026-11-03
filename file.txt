@@ -1,0 +1,3 @@
+This is branch b2.
+GitHub is used for collaboration.
+Branch b2 contains feature B.
